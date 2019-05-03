@@ -63,7 +63,6 @@ or
 pip3 install --upgrade watson-developer-cloud
 
 
-
 ```
 
 b) If you run into permission issues try:
