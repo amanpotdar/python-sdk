@@ -46,6 +46,8 @@ pip install --upgrade ibm-watson
 
 or
 
+pip3 install --upgrade ibm-watson
+
 ```bash
 easy_install --upgrade ibm-watson
 ```
@@ -55,6 +57,13 @@ a) Versions prior to 3.0.0 can be installed using:
 
 ```bash
 pip install --upgrade watson-developer-cloud
+
+or
+
+pip3 install --upgrade watson-developer-cloud
+
+
+
 ```
 
 b) If you run into permission issues try:
